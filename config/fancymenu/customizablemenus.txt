@@ -1,0 +1,20 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_447 {
+}
+
+net.minecraft.class_457 {
+}
+
+net.minecraft.class_429 {
+}
+
