@@ -57,3 +57,12 @@ net.minecraft.class_458 {
 net.minecraft.class_426 {
 }
 
+net.minecraft.class_5375 {
+}
+
+net.minecraft.class_422 {
+}
+
+net.minecraft.class_420 {
+}
+

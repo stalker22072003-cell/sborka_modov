@@ -24,6 +24,10 @@
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
   "hideWarning": false,
-  "fastmenu": {},
+  "fastmenu": {
+    "0": {
+      "6": "f90355c8-0000-0000-0000-000000000000"
+    }
+  },
   "keys": {}
 }
