@@ -16,7 +16,7 @@ fullscreen:false
 gamma:0.5
 graphicsMode:1
 guiScale:2
-maxFps:120
+maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -51,8 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.4.zip","file/Low Fire.zip","file/NewGlowingOres-§6[Border]§r.zip","file/Simple Grass Flowers v1.9.6.zip","file/SodiumTranslations.zip","file/crops-3d(2).zip","file/enchant icons 1.21.4 v1.3.zip"]
+incompatibleResourcePacks:["appleskin","drippyloadingscreen","fancymenu","konkrete","yet_another_config_lib_v3","file/crops-3d(2).zip","file/enchant icons 1.21.4 v1.3.zip"]
 lastServer:
 lang:ru_ru
 chatVisibility:0
@@ -128,11 +128,13 @@ key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.plasmovoice.settings:key.keyboard.v
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.06788079470198675
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
